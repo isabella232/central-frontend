@@ -108,6 +108,13 @@ export default {
       "target": "操作の対象",
       "details": "詳細"
     }
+  },
+  "pt": {
+    "header": {
+      "initiator": "Initiator",
+      "target": "Target",
+      "details": "Detalhes"
+    }
   }
 }
 </i18n>

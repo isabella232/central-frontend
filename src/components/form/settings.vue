@@ -216,6 +216,21 @@ export default {
     "alert": {
       "delete": "フォーム\"{name}\"は削除されました。"
     }
+  },
+  "pt": {
+    "state": {
+      "title": "Status do formulário",
+      "body": {
+        "full": "Para definir o estado desse formulário, por favor visite a {formAccessSettings}do projeto.",
+        "formAccessSettings": "Configurações de acesso ao formulário"
+      }
+    },
+    "action": {
+      "delete": "Excluir esse formulário"
+    },
+    "alert": {
+      "delete": "O formulário \"{name}\" foi excluído."
+    }
   }
 }
 </i18n>

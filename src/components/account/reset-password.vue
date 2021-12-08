@@ -120,6 +120,11 @@ export default {
     "alert": {
       "success": "{email}に詳細の対応についての情報が記されたメールが送信されました。"
     }
+  },
+  "pt": {
+    "alert": {
+      "success": "Um email foi enviado para {email} com mais instruções."
+    }
   }
 }
 </i18n>

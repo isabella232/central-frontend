@@ -233,6 +233,12 @@ export default {
       "title": "提出フォームの詳細",
       "back": "提出フォームの一覧に戻る"
     }
+  },
+  "pt": {
+    "back": {
+      "title": "Detalhes da resposta",
+      "back": "Voltar à tabela de respostas"
+    }
   }
 }
 </i18n>

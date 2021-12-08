@@ -113,6 +113,9 @@ export default {
   },
   "ja": {
     "title": "XMLの閲覧"
+  },
+  "pt": {
+    "title": "Exibir XML"
   }
 }
 </i18n>

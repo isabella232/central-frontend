@@ -190,6 +190,17 @@ export default {
       "mismatch": "新しいパスワードが一致することを確認して下さい。",
       "success": "成功です！パスワードが更新されました。"
     }
+  },
+  "pt": {
+    "title": "Mudar senha",
+    "action": {
+      "change": "Mudar senha"
+    },
+    "cannotChange": "Apenas o proprietário da conta pode definir sua própria senha.",
+    "alert": {
+      "mismatch": "Por favor, certifique-se de que a suas novas senhas sejam iguais.",
+      "success": "Sua senha foi atualizada com sucesso!"
+    }
   }
 }
 </i18n>

@@ -102,6 +102,12 @@ export default {
     "introduction": [
       "プロジェクトでは、関連のあるフォームやユーザーをグループ化できます。Webユーザーには役割が与えられ、ブラウザでのフォーム入力など、プロジェクト内で特定の操作が可能です。プロジェクトのアプリユーザーは、自分がアクセス権のあるプロジェクト内のフォームのみ閲覧できます。"
     ]
+  },
+  "pt": {
+    "title": "O que são projetos?",
+    "introduction": [
+      "Os projetos permitem que você agrupe formulários e usuários relacionados. Os usuários da web podem receber funções que os permitem realizar certas ações dentro do projeto, incluindo o uso de um navegador da web para preencher formulários. Os usuários de aplicativo do projeto só podem ver os formulários do projeto aos quais têm acesso."
+    ]
   }
 }
 </i18n>

@@ -243,6 +243,24 @@ export default {
     "action": {
       "abandon": "削除"
     }
+  },
+  "pt": {
+    "title": {
+      "abandon": "Abandonar rascunho",
+      "deleteForm": "Abandonar rascunho e apagar formulário"
+    },
+    "introduction": {
+      "abandon": [
+        "Você está prestes a excluir permanentemente a versão de rascunho desse formulário. Isso significa que o arquivo de definição do formulário de rascunho, quaisquer arquivos de mídia que você tenha carregado, e todas as respostas de teste serão removidas.",
+        "Seu arquivo de definição do formulário publicado, os arquivos de mídia dele e suas as respostas não serão afetadas."
+      ],
+      "deleteForm": [
+        "Você está prestes a excluir permanentemente a definição desse formulário rascunho junto com quaisquer arquivos de mídia e todas as respostas de teste. Como você ainda não publicou esse formulário, ele será excluído totalmente."
+      ]
+    },
+    "action": {
+      "abandon": "Abandonar"
+    }
   }
 }
 </i18n>

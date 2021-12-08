@@ -260,6 +260,12 @@ export default {
       "form": "フォーム",
       "state": "状態"
     }
+  },
+  "pt": {
+    "header": {
+      "form": "Formulário",
+      "state": "Status"
+    }
   }
 }
 </i18n>

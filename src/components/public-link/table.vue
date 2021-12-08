@@ -110,6 +110,12 @@ export default {
       "once": "一回限りのデータ提出機能",
       "accessLink": "アクセスリンク"
     }
+  },
+  "pt": {
+    "header": {
+      "once": "Resposta única",
+      "accessLink": "Link de acesso"
+    }
   }
 }
 </i18n>

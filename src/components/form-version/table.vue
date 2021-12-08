@@ -107,6 +107,12 @@ export default {
       "published": "公開済み",
       "definition": "定義フォーム"
     }
+  },
+  "pt": {
+    "header": {
+      "published": "Publicado",
+      "definition": "Definição"
+    }
   }
 }
 </i18n>

@@ -178,6 +178,13 @@ export default {
       "create": "成功です！自動バックアップは設定されました。",
       "terminate": "自動バックアップを停止しました。 なるべく早急に新たなバックアップ設定を行うことを推奨します。"
     }
+  },
+  "pt": {
+    "auditsTitle": "Últimos backups",
+    "alert": {
+      "create": "Sucesso! Os backups automáticos estão configurados.",
+      "terminate": "Seus backups automáticos foram desativados. É recomendável que você configure um novo backup automático assim que possível."
+    }
   }
 }
 </i18n>

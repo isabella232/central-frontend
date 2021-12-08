@@ -247,6 +247,16 @@ export default {
     "action": {
       "retire": "ユーザーの除外"
     }
+  },
+  "pt": {
+    "cannotAssignRole": "Você não pode alterar a sua própria função do site.",
+    "field": {
+      "sitewideRole": "Função do site"
+    },
+    "cannotRetire": "Você não pode desativar você mesmo.",
+    "action": {
+      "retire": "Desativar usuário"
+    }
   }
 }
 </i18n>

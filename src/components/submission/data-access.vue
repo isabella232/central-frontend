@@ -119,6 +119,13 @@ export default {
       "analyze": "OData経由で解析"
     },
     "analyzeDisabled": "フォームの暗号化のため、ODataによるアクセスは利用できません"
+  },
+  "pt": {
+    "action": {
+      "apiAccess": "Acesso via API",
+      "analyze": "Analisar via OData"
+    },
+    "analyzeDisabled": "Acesso a dados via OData não disponível devido à encriptação do formulário."
   }
 }
 </i18n>

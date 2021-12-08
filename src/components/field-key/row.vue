@@ -156,6 +156,13 @@ export default {
     "action": {
       "revokeAccess": "アクセス権の取消"
     }
+  },
+  "pt": {
+    "seeCode": "Ver código",
+    "accessRevoked": "Acesso removido",
+    "action": {
+      "revokeAccess": "Remover acesso"
+    }
   }
 }
 </i18n>

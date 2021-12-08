@@ -161,6 +161,16 @@ export default {
         "noUndo": "この操作は取り消しできません"
       }
     ]
+  },
+  "pt": {
+    "title": "Desativando usuário",
+    "introduction": [
+      "Você está prestes a desativar a conta de usuário \"{displayName}\" \u003c{email}>. Essa conta será imediatamente impedida de realizar qualquer ação e sairá do sistema.",
+      {
+        "full": "{noUndo}, mas uma nova conta sempre poderá ser criada para aquela pessoa com o mesmo endereço de email.",
+        "noUndo": "Essa ação não pode ser desfeita"
+      }
+    ]
   }
 }
 </i18n>

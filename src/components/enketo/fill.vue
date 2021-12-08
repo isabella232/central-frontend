@@ -104,6 +104,12 @@ export default {
       "processing": "Webフォームはまだ利用できません。現在、処理中です。後ほどページを更新し、もう一度試して下さい。",
       "notOpen": "このフォームは現在、新規のフォーム提出を受け付けていません。"
     }
+  },
+  "pt": {
+    "disabled": {
+      "processing": "O formulário da web não está disponível ainda. O processamento dele ainda não terminou. Por favor, atualize a página mais tarde e tente novamente.",
+      "notOpen": "Esse formulário não está aceitando respostas nesse momento."
+    }
   }
 }
 </i18n>

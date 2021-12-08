@@ -329,6 +329,30 @@ export default {
     "problem": {
       "409_6": "指定されたバージョン名は、このフォームの過去のバージョンと競合しています。新しいものに変更して再度試して下さい。"
     }
+  },
+  "pt": {
+    "title": "Publicar rascunho",
+    "warnings": {
+      "attachments": {
+        "full": "Você não forneceu todos os {mediaFiles}que o formulário requer. Você pode ignorar isso se desejar, mas terá que preparar uma nova versão de rascunho para carregar esses arquivos mais tarde.",
+        "mediaFiles": "Arquivos de mídia"
+      },
+      "testing": {
+        "full": "Você ainda não {tested} enviando uma resposta de teste. Você não é obrigado a fazê-lo, mas isso é altamente recomendado.",
+        "tested": "Testar esse formulário"
+      }
+    },
+    "introduction": [
+      "Você está prestes a fazer desse rascunho a versão publicada do seu formulário. Isso encerrará quaisquer mudanças que você tenha feito na definição do formulário e nos arquivos de mídia anexados.",
+      "As respostas existentes do formulário principal não serão afetadas, mas todas as respostas de teste do rascunho serão removidas.",
+      "Cada versão de um formulário requer um nome de versão exclusivo. No momento, seu formulário de rascunho tem o mesmo nome de versão de outro publicado anteriormente. Você pode definir um novo carregando uma definição de formulário com o nome desejado ou pode digitar um novo abaixo e o servidor irá alterá-lo para você."
+    ],
+    "field": {
+      "version": "Versão"
+    },
+    "problem": {
+      "409_6": "O nome da versão que você especificou conflita com uma versão anterior desse formulário. Por favor, altere-o para algo novo e tente novamente."
+    }
   }
 }
 </i18n>

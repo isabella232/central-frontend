@@ -269,6 +269,21 @@ export default {
         }
       }
     }
+  },
+  "pt": {
+    "checklist": "Lista de verificação",
+    "draft": {
+      "none": {
+        "title": "Sem rascunho atual",
+        "body": "Não existe uma versão rascunho para esse formulário atualmente. Se você deseja fazer alterações nesse formulário ou a seus arquivos de mídia, comece criando um rascunho usando o botão acima."
+      },
+      "any": {
+        "versionCaption": {
+          "full": "{draftVersion} desse formulário.",
+          "draftVersion": "Versão de rascunho"
+        }
+      }
+    }
   }
 }
 </i18n>

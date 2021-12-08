@@ -102,6 +102,11 @@ export default {
     "field": {
       "submissionDate": "フォームの送信日"
     }
+  },
+  "pt": {
+    "field": {
+      "submissionDate": "Enviado em"
+    }
   }
 }
 </i18n>

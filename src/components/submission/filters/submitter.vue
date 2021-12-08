@@ -97,6 +97,11 @@ export default {
     "field": {
       "submitter": "フォーム送信者"
     }
+  },
+  "pt": {
+    "field": {
+      "submitter": "Enviado por"
+    }
   }
 }
 </i18n>

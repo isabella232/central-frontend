@@ -205,6 +205,12 @@ export default {
     "field": {
       "projectRole": "プロジェクトでの役割"
     }
+  },
+  "pt": {
+    "cannotAssignRole": "Você não pode alterar a sua própria função no projeto.",
+    "field": {
+      "projectRole": "Função de projeto"
+    }
   }
 }
 </i18n>

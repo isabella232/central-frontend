@@ -150,6 +150,19 @@ export default {
     "action": {
       "improveCentral": "Centralを改善する。"
     }
+  },
+  "pt": {
+    "title": "Ajude a melhorar o Central!",
+    "introduction": [
+      {
+        "full": "Na aba de {usageReporting} das configurações do sistema você pode escolher compartilhar dados anônimos de uso ou suas informações de contato com a equipe do Central.",
+        "usageReporting": "Relatório de uso"
+      },
+      "Lá você pode escolher não ver mais essa mensagem novamente."
+    ],
+    "action": {
+      "improveCentral": "Aprimorar o Central"
+    }
   }
 }
 </i18n>

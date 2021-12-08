@@ -232,6 +232,15 @@ export default {
     "formClosedTip": "このフォームは終了しています。ダウンロードやフォームの提出は出来ません。",
     "formClosingTip": "このフォームはクロージング状態です。ダウンロードは出来ませんが、フォームの提出は受け付けています。",
     "formUnpublishedTip": "このフォームは公開バージョンがまだありません。"
+  },
+  "pt": {
+    "lastSubmission": "(última {dateTime})",
+    "action": {
+      "fill": "Preencher formulário"
+    },
+    "formClosedTip": "Esse formulário está fechado. Ele não pode ser baixado e não aceita respostas.",
+    "formClosingTip": "Esse formulário está em fechamento. Ele não pode ser baixado mas ainda aceita respostas.",
+    "formUnpublishedTip": "Esse formulário ainda não tem uma versão publicada."
   }
 }
 </i18n>

@@ -158,6 +158,15 @@ export default {
     "alert": {
       "success": "ユーザー詳細の保存完了！"
     }
+  },
+  "pt": {
+    "title": "Detalhes básicos",
+    "action": {
+      "update": "Atualizar detalhes"
+    },
+    "alert": {
+      "success": "Detalhes do usuário gravados!"
+    }
   }
 }
 </i18n>

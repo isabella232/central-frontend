@@ -154,6 +154,11 @@ export default {
     "alert": {
       "loadError": "リクエストされたページを読み込むことができませんでした。ページを更新して、もう一度試みて下さい。"
     }
+  },
+  "pt": {
+    "alert": {
+      "loadError": "A página que você solicitou não pode ser carregada. Por favor, atualize a página e tente novamente."
+    }
   }
 }
 </i18n>

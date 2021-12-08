@@ -250,6 +250,11 @@ export default {
     "header": {
       "stateAndActions": "レビュー・ステータスと操作"
     }
+  },
+  "pt": {
+    "header": {
+      "stateAndActions": "Status e ações"
+    }
   }
 }
 </i18n>

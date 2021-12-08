@@ -495,6 +495,53 @@ export default {
         ]
       }
     ]
+  },
+  "pt": {
+    "clickForInfo": "Clique aqui para saber mais.",
+    "steps": [
+      {
+        "title": "Publicar sua primeira versão de rascunho",
+        "body": [
+          "Excelente trabalho!",
+          "Você publicou o seu formulário. Ele está pronto para receber respostas. Se você deseja modificar o formulário ou seus arquivos de mídia, você pode criar um novo rascunho."
+        ]
+      },
+      {
+        "title": "Baixar o formulário nos dispositivos cliente e enviar respostas",
+        "body": [
+          {
+            "none": "Ninguém enviou qualquer resposta a esse formulário ainda.",
+            "any": "Foi feita {count}resposta. | Foram feitas {count}respostas."
+          },
+          {
+            "full": "{clickHere} para saber mais sobre as formas diferentes de enviar dados.",
+            "clickHere": "Clique aqui"
+          }
+        ]
+      },
+      {
+        "title": "Avalie e analise dados de respostas",
+        "body": [
+          {
+            "none": "Quando houver respostas a esse formulário, você poderá exportar ou sincronizar dados para monitorá-las e analisá-las em termos de resultados e qualidade das respostas.",
+            "any": "Você pode exportar ou sincronizar {count} resposta desse formulário para monitorá-la e analisá-la em termos de resultados e qualidade da resposta. | Você pode exportar ou sincronizar {count} respostas desse formulário para monitorá-las e analisá-las em termos de resultados e qualidade da resposta."
+          },
+          {
+            "full": "Você pode fazer isso através do botão baixar e analisar na {submissionsTab}.",
+            "submissionsTab": "Aba de respostas"
+          }
+        ]
+      },
+      {
+        "title": "Gerenciar desativação de formulário",
+        "body": [
+          {
+            "full": "Ao chegar ao final de sua coleta de dados, você pode usar os controles de status do formulário no {formAccessTab}para controlar se, por exemplo, os usuários do aplicativo poderão ver ou criar novas respostas para este formulário.",
+            "formAccessTab": "Aba de acesso a formulário na página do projeto"
+          }
+        ]
+      }
+    ]
   }
 }
 </i18n>

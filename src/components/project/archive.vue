@@ -170,6 +170,16 @@ export default {
         "noUndo": "この操作は取り消しできません。"
       }
     ]
+  },
+  "pt": {
+    "title": "Arquivando o projeto",
+    "introduction": [
+      "Você está prestes a arquivar o projeto \"{name}\". Ele continuará funcionando como está agora, mas será exibido no final da lista de projetos da página principal do Central.",
+      {
+        "full": "{noUndo}, mas a possibilidade de desarquivar um projeto está planejada para uma versão futura.",
+        "noUndo": "Essa ação não pode ser desfeita"
+      }
+    ]
   }
 }
 </i18n>

@@ -139,6 +139,12 @@ export default {
     "introduction": [
       "このアカウントを作成すると、登録したメールアドレスにパスワード設定方法と今後の手順を記載したメールが送信されます。"
     ]
+  },
+  "pt": {
+    "title": "Criar usuário do site",
+    "introduction": [
+      "Quando você criar essa conta, o endereço de email fornecido receberá instruções sobre como criar uma senha e os próximos passos."
+    ]
   }
 }
 </i18n>

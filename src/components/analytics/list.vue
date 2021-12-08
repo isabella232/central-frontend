@@ -141,6 +141,12 @@ export default {
       "以下で、あなたはこのCentralサーバーがCentralチームと匿名化された利用情報を共有するかどうかを選択できます。この設定はサーバー全体の及びます。"
     ],
     "auditsTitle": "最新の利用情報"
+  },
+  "pt": {
+    "heading": [
+      "Abaixo, você pode escolher se esse servidor Central irá compartilhar informações de uso anônimas com a equipe do Central. Essa configuração afeta o servidor como um todo."
+    ],
+    "auditsTitle": "Relatórios de uso mais recentes"
   }
 }
 </i18n>

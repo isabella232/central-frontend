@@ -269,6 +269,16 @@ export default {
     "alert": {
       "submit": "データダウンロードはすぐに始まります。始まり次第、このボックスを閉じて構いません。開始されない場合は、もう一度試して下さい。"
     }
+  },
+  "pt": {
+    "title": "Desencriptar e baixar",
+    "introduction": [
+      "Para baixar esses dados, você precisará fornecer sua senha. Sua senha será usada apenas para descriptografar seus dados para download, após o qual o servidor irá esquecê-la novamente."
+    ],
+    "hint": "Dica: {hint}",
+    "alert": {
+      "submit": "O processo de baixar seus dados começará em breve. Assim que ele começar você poderá fechar essa caixa. Se você já está esperando e ele ainda não começou, por favor tente novamente."
+    }
   }
 }
 </i18n>

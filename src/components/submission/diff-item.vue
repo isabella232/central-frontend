@@ -334,6 +334,13 @@ export default {
       "deleted": "（削除済み）"
     },
     "empty": "空"
+  },
+  "pt": {
+    "editCaption": {
+      "added": "(incluído)",
+      "deleted": "(apagado)"
+    },
+    "empty": "vazio"
   }
 }
 </i18n>

@@ -583,6 +583,28 @@ export default {
     },
     "emptyTable": "表示できる提出済フォームはありません。",
     "noMatching": "照合できる提出済フォームはありません。"
+  },
+  "pt": {
+    "loading": {
+      "withoutCount": "Carregando respostas...",
+      "all": "Carregando {count} resposta... | Carregando {count}respostas...",
+      "first": "Carregando as primeira {top}de {count} respostas... | Carregando as primeiras {top}de {count}respostas...",
+      "middle": "Carregando mais {top} de {count} resposta que ainda falta... | Carregando mais {top}de {count}respostas que ainda faltam...",
+      "last": {
+        "multiple": "Carregando {count} resposta... | Carregando as últimas {count} respostas...",
+        "one": "Carregando a última resposta..."
+      },
+      "filtered": {
+        "withoutCount": "Carregando respostas encontradas...",
+        "middle": "Carregando mais {top}de{count}resposta correspondente que ainda falta... | Carregando mais {top}de {count} respostas correspondentes que ainda faltam...",
+        "last": {
+          "multiple": "Carregando a última {count} resposta correspondente... | Carregando as últimas {count}respostas correspondentes...",
+          "one": "Carregando a última resposta encontrada..."
+        }
+      }
+    },
+    "emptyTable": "Não existem respostas ainda.",
+    "noMatching": "Não foram encontradas respostas com esses parâmetros."
   }
 }
 </i18n>

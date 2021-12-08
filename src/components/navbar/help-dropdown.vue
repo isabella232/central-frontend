@@ -89,6 +89,11 @@ export default {
     "docs": "Docs",
     "forum": "フォーラム",
     "version": "バージョン"
+  },
+  "pt": {
+    "docs": "Documentação",
+    "forum": "Fórum",
+    "version": "Versão"
   }
 }
 </i18n>

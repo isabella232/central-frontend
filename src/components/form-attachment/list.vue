@@ -571,6 +571,26 @@ export default {
       "readError": "ファイル\"{filename}\"を読み込み中に問題が発生しました。",
       "success": "{count}のファイルのアップロードに成功"
     }
+  },
+  "pt": {
+    "action": {
+      "upload": "Subir arquivos"
+    },
+    "heading": [
+      "Com base no formulário que você carregou, os arquivos listados são requeridos. Você pode visualizar quais deles já foram carregados e quais ainda estão faltando.",
+      "Para carregar arquivos, arraste e solte um ou mais arquivos nessa página"
+    ],
+    "header": {
+      "uploaded": "Carregado"
+    },
+    "problem": {
+      "noneUploaded": "{message}Nenhum arquivo foi carregado.",
+      "someUploaded": "{message} Apenas {uploaded} de{total} arquivo foi carregado com sucesso. | {message}Apenas {uploaded}de {total}arquivos foram carregados com sucesso."
+    },
+    "alert": {
+      "readError": "Algo deu errado ao ler o arquivo \"{filename}\".",
+      "success": "{count} arquivo foi carregado com sucesso. | {count} arquivos foram carregados com sucesso."
+    }
   }
 }
 </i18n>

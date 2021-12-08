@@ -129,6 +129,13 @@ export default {
       "自動バックアップを本当に停止しますか？",
       "バックアップを再開するには、また初めから設定し直す必要があります。なお、この操作は取り消しできません。"
     ]
+  },
+  "pt": {
+    "title": "Encerrar o backups automático",
+    "introduction": [
+      "Tem certeza que deseja encerrar o backup automático?",
+      "Você terá que reconfigurá-lo novamente desde o início para poder iniciá-lo outra vez, e essa ação não poderá ser desfeita."
+    ]
   }
 }
 </i18n>

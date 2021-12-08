@@ -139,6 +139,13 @@ export default {
       "フォーム{name}および、その提出済フォームが削除されます。 本当に削除してもよろしいですか？",
       "この操作は取り消しできません。"
     ]
+  },
+  "pt": {
+    "title": "Excluir formulário",
+    "introduction": [
+      "Você tem certeza que deseja excluir o formulário {name} e todas as suas respostas?",
+      "Essa ação não pode ser desfeita."
+    ]
   }
 }
 </i18n>

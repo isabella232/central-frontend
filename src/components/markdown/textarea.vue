@@ -178,6 +178,10 @@ export default {
   "ja": {
     "markdownSupported": "マークダウンがサポートされています。",
     "preview": "プレビュー"
+  },
+  "pt": {
+    "markdownSupported": "Formatação em estilo Markdown suportada",
+    "preview": "Visualização"
   }
 }
 </i18n>

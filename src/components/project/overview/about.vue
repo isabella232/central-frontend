@@ -163,6 +163,19 @@ export default {
         "forumThread": "フォーラムのスレッド"
       }
     ]
+  },
+  "pt": {
+    "title": "Sobre os projetos",
+    "body": [
+      {
+        "full": "Os projetos permitem que você agrupe formulários e usuários relacionados. Os usuários da web podem receber funções que os permitem realizar certas ações do projeto, incluindo o uso de um navegador da web para preencher formulários. Os usuários do aplicativo do projeto só podem ver os formulários a que {accessTo}neste projeto.",
+        "accessTo": "acesso a"
+      },
+      {
+        "full": "Se você tiver qualquer comentário, por favor acesse {forumThread}.",
+        "forumThread": "esse tópico do fórum"
+      }
+    ]
   }
 }
 </i18n>

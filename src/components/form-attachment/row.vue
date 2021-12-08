@@ -256,6 +256,19 @@ export default {
       "text": "アップロード未完了",
       "title": "１つ以上のファイルをドラッグ＆ドロップしてアップロードする。"
     }
+  },
+  "pt": {
+    "type": {
+      "image": "Imagem",
+      "audio": "Áudio",
+      "video": "Vídeo",
+      "file": "Arquivo de dados"
+    },
+    "replace": "Substituir",
+    "notUploaded": {
+      "text": "Não carregado ainda",
+      "title": "Para carregar arquivos, arraste e solte um ou mais arquivos nessa página"
+    }
   }
 }
 </i18n>

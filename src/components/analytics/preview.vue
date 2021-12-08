@@ -241,6 +241,19 @@ export default {
       "subtitle": "（最もアクティブな{count}つのプロジェクトについて）"
     },
     "submissionStates": "提出済フォームの状態"
+  },
+  "pt": {
+    "title": "Relatório de uso com dados anônimos",
+    "introduction": [
+      "Obrigado por considerar o envio de algumas informações de utilização. Esses dados nos ajudarão a priorizar suas necessidades!",
+      "O relatório do que está sendo coletado atualmente está exibido aqui. Para atender a novas funcionalidades e necessidades, nós poderemos às vezes mudar o que é reportado, mas nós sempre usaremos apenas médias de resumo de uso como as que você vê aqui.",
+      "Você sempre pode vir aqui para ver o que está sendo coletado."
+    ],
+    "projects": {
+      "title": "Resumo do projeto",
+      "subtitle": "(Mostrando o projeto mais ativo de {count} projeto) | (Mostrando o projeto mais ativo de {count} projetos)"
+    },
+    "submissionStates": "Status de envio"
   }
 }
 </i18n>

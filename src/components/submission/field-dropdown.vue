@@ -421,6 +421,21 @@ export default {
         "none": "なし"
       }
     }
+  },
+  "pt": {
+    "placeholder": "{selected} de {total}",
+    "field": {
+      "columns": "Colunas exibidas",
+      "search": "Colunas de busca..."
+    },
+    "disabled": "Impossível selecionar mais de 100 colunas.",
+    "action": {
+      "select": {
+        "full": "Selecionar {all} / {none}",
+        "all": "Todos",
+        "none": "Nenhum"
+      }
+    }
   }
 }
 </i18n>

@@ -100,6 +100,9 @@ export default {
   },
   "ja": {
     "helpTranslate": "Centralの翻訳に貢献する"
+  },
+  "pt": {
+    "helpTranslate": "Ajude a traduzir o Central"
   }
 }
 </i18n>

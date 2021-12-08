@@ -682,6 +682,59 @@ export default {
     "field": {
       "hint": "パスフレーズのヒント（任意）"
     }
+  },
+  "pt": {
+    "title": "Habilitar encriptação",
+    "steps": [
+      {
+        "introduction": [
+          [
+            "Se você habilitar a encriptação, ocorrerá o seguinte:",
+            "Dados de respostas finalizadas serão encriptados nos dispositivos móveis.",
+            "Dados de respostas atualmente armazenados nesse servidor Central serão criptografados.",
+            [
+              "Formulários configurados com chaves manuais de encriptação {submission} continuarão a utilizar essas chaves e precisarão ser descriptografados manualmente.",
+              "Para usar o processo de encriptação automático do Central nesses formulários, remova a configuração da chave {base64RsaPublicKey}."
+            ],
+            "Você não poderá mais visualizar dados de respostas online.",
+            "Você não poderá mais se conectar aos dados via OData.",
+            "Você não poderá mais editar respostas no seu navegador de internet."
+          ],
+          [
+            "Além disso, as informações a seguir são verdadeiras nessa versão do ODK Central:",
+            [
+              "As respostas existentes permanecerão sem encriptação.",
+              "Em uma versão futura, você terá opção de encriptar dados existentes."
+            ],
+            [
+              "A encriptação não poderá ser desligada uma vez que tenha sido habilitada.",
+              "Em uma versão futura, você poderá desabilitar a encriptação, o que irá desencriptar os seus dados. Isso acontecerá mesmo que você habilite a encriptação agora."
+            ]
+          ],
+          {
+            "full": "Você pode aprender mais sobre encriptação {here}. Se isso soa como algo que você deseja, pressione próximo para continuar.",
+            "here": "aqui"
+          }
+        ]
+      },
+      {
+        "introduction": [
+          "Primeiro, você precisará escolher uma senha longa. Esta senha será necessária para descriptografar suas respostas. Para garantir sua privacidade, o servidor não se lembrará desta frase secreta: somente as pessoas com a frase secreta poderão decifrar e ler seus dados de respostas.",
+          {
+            "full": "Não há restrições de comprimento ou conteúdo na senha, mas se você perdê-la, {no} existe nenhuma maneira de recuperá-la ou recuperar seus dados!",
+            "no": "não"
+          }
+        ]
+      },
+      {
+        "introduction": [
+          "A encriptação de dados foi configurada para esse projeto. Todos os dispositivos móveis terão que obter ou atualizar o formulário mais recente para a encriptação de dados ter início."
+        ]
+      }
+    ],
+    "field": {
+      "hint": "Dica de senha (opcional)"
+    }
   }
 }
 </i18n>

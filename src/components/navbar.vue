@@ -300,6 +300,12 @@ $border-height: 3px;
       "toggle": "ナビゲーションを有効化"
     },
     "analyticsNotice": "Centralの改善を支援！"
+  },
+  "pt": {
+    "action": {
+      "toggle": "Ocultar ou exibir a barra de navegação"
+    },
+    "analyticsNotice": "Ajude a melhorar o Central!"
   }
 }
 </i18n>

@@ -523,6 +523,48 @@ export default {
     "problem": {
       "verify": "再度試し、問題が解決しない場合はコミュニティフォーラムを確認して下さい。"
     }
+  },
+  "pt": {
+    "title": "Configurar backups",
+    "steps": [
+      {
+        "warning": {
+          "full": "Atualmente, este backup não inclui links de formulários da web. Se você compartilha links de acesso público ou usa links em outros sites para formulários da Web nesse servidor, é altamente recomendável que você também faça um backup completo do sistema até que isso seja resolvido. Se você tiver que restaurar do backup e terminar com links de visualização corrompidos, poste em {forum} para obter ajuda.",
+          "forum": "o fórum"
+        },
+        "introduction": [
+          "Se desejar, você pode definir uma senha de encriptação que deverá ser usada para desbloquear o backup.",
+          "Não há meios de recuperar a senha de desbloqueio se você a perder!",
+          "Certifique-se de escolher algo de que você irá se lembrar, ou escreva em algum lugar seguro."
+        ]
+      },
+      {
+        "introduction": [
+          {
+            "full": "Por segurança, o servidor envia seus dados para o Google Drive. Você pode se cadastrar para obter uma conta gratuita {here}.",
+            "here": "aqui"
+          },
+          "Quando você clicar em próximo, a Google irá confirmar se você deseja permitir que o servidor acesse sua conta. A única coisa a que o servidor terá acesso são os arquivos de backup que ele cria.",
+          "Ao confirmar essa opção, você precisará copiar e colar algum texto de volta aqui."
+        ]
+      },
+      {
+        "introduction": [
+          {
+            "full": "Benvindo novamente! Você recebeu algum texto para copiar e colar aqui? Caso não tenha conseguido {here}para tentar de novo.",
+            "here": "aqui"
+          },
+          "Caso contrário, cole-o abaixo e você terminou!"
+        ]
+      }
+    ],
+    "field": {
+      "passphrase": "Dica de senha (opcional)",
+      "confirmationText": "Texto de confirmação"
+    },
+    "problem": {
+      "verify": "Por favor, tente novamente e acesse o fórum da comunidade caso o problema persista."
+    }
   }
 }
 </i18n>

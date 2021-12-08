@@ -591,6 +591,47 @@ $drop-zone-vpadding: 15px;
         "update": "これら問題が無視できると判断した場合、ボタンをクリックして下書きを更新して下さい。"
       }
     ]
+  },
+  "pt": {
+    "title": {
+      "create": "Criar formulário",
+      "update": "Carregar nova definição de formulário"
+    },
+    "introduction": [
+      {
+        "create": "Para criar um formulário, carregue um arquivo XML do XForms ou um arquivo XLSForm do Excel.",
+        "update": "Para atualizar o rascunho, carregue um arquivo XML do XForms ou um arquivo XLSForm do Excel."
+      },
+      {
+        "full": "Se você não tem nenhum ainda, existem {tools} que podem ajudar você a construir seu formulário.",
+        "tools": "ferramentas disponíveis"
+      },
+      "Se você tiver arquivos de mídia, você poderá carregá-los na próxima página, após o formulário ter sido criado."
+    ],
+    "dropZone": {
+      "full": "Solte o arquivo aqui, ou {chooseOne}para carregar.",
+      "chooseOne": "escolha um"
+    },
+    "action": {
+      "upload": "Carregar",
+      "uploadAnyway": "Carregar assim mesmo"
+    },
+    "alert": {
+      "fileRequired": "Por favor, selecione um arquivo."
+    },
+    "problem": {
+      "400_8": "A especificação de formulário que você carregou não parece ser para esse formulário. Ela contém uma identificação de formulário errada (era esperado \"{expected}\", mas encontramos \"{actual}\").",
+      "400_15": "O XLSForm não pode ser convertido: {error}",
+      "409_3": "Já existe um formulário nesse projeto com o ID de formulário \"{xmlFormId}\"."
+    },
+    "warningsText": [
+      "Esse arquivo XLSForm pode ser usado, mas ele tem possíveis problemas, mostrados a seguir (alertas da conversão):",
+      "Por favor, corrija os problemas e tente novamente.",
+      {
+        "create": "Se você tiver certeza que esses problemas podem ser ignorados, clique no botão para criar o formulário assim mesmo:",
+        "update": "Se você tiver certeza que esses problemas podem ser ignorados, clique no botão para alterar o rascunho assim mesmo:"
+      }
+    ]
   }
 }
 </i18n>

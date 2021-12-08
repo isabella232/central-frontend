@@ -229,6 +229,14 @@ export default {
       "下書きにテスト提出されたフォームは、以下の表に示されます。ここではデータのプレビューやダウンロードが可能です。この下書きフォームを公開した場合、テスト提出済フォームは永久に削除されます。"
     ],
     "collectProjectName": "[下書き] {name}"
+  },
+  "pt": {
+    "title": "Teste do rascunho",
+    "body": [
+      "Você pode usar o código de configuração à direita para configurar um dispositivo móvel para baixar esse rascunho. Você podem também clicar no botão Novo acima para criar uma resposta a partir do seu navegador de internet.",
+      "As respostas do rascunho vão para a tabela de teste abaixo, onde você pode visualizá-las e baixá-las. Quando você publicar este formulário de rascunho, seus envios de teste serão removidos permanentemente."
+    ],
+    "collectProjectName": "[Rascunho] {name}"
   }
 }
 </i18n>

@@ -320,6 +320,23 @@ export default {
     "action": {
       "createAnother": "別のものを作成"
     }
+  },
+  "pt": {
+    "title": "Criar usuário de aplicativo",
+    "introduction": [
+      "Esse usuário não terá acesso a nenhum formulário inicialmente. Você poderá atribuir acesso a formulários após a criação do usuário."
+    ],
+    "success": [
+      "O usuário de aplicativo \"{displayName}\" foi criado.",
+      "Você pode configurar um dispositivo móvel para \"{displayName}\" agora, ou você pode fazer isso mais tarde clicando na opção \"Exibir código\" da tabela de usuários de aplicativo.",
+      {
+        "full": "Você pode querer visitar a página de {formAccessSettings}desse projeto para dar acesso a formulários para esse usuário.",
+        "formAccessSettings": "Configurações de acesso ao formulário"
+      }
+    ],
+    "action": {
+      "createAnother": "Criar outro"
+    }
   }
 }
 </i18n>

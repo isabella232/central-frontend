@@ -557,6 +557,42 @@ export default {
       "assignRole": "成功です！\"{displayName}\"には、このプロジェクトで\"{roleName}\"の役割が割当てられました。",
       "unassignRole": "成功です！\"{displayName}\"はこのプロジェクトから除外されました。"
     }
+  },
+  "pt": {
+    "heading": [
+      "Administradores do site são automaticamente considerados gerentes de todos os projetos. Outros usuários podem ter funções específicas para esse projeto:",
+      {
+        "full": "{projectManagers}podem realizar qualquer tarefa administrativa relacionada a esse projeto e podem preencher formulários no navegador de internet.",
+        "projectManagers": "Gerentes de projeto"
+      },
+      {
+        "full": "{projectViewers} podem acessar e baixar todos os dados de formulários desse projeto, mas não podem fazer nenhuma mudança nas configurações ou nos dados.",
+        "projectViewers": "Observadores de projeto"
+      },
+      {
+        "full": "{dataCollectors}pode preencher formulários em um navegador de internet, mas não podem ver ou fazer mudanças nos dados ou configurações.",
+        "dataCollectors": "Coletores de dados"
+      }
+    ],
+    "action": {
+      "clearSearch": "Limpar a busca"
+    },
+    "field": {
+      "q": {
+        "canList": "Localizar um usuário...",
+        "cannotList": "Entre com o endereço de email completo do usuário"
+      }
+    },
+    "header": {
+      "user": "Usuário",
+      "projectRole": "Função de projeto"
+    },
+    "emptyTable": "Não existem usuário designados para esse projeto ainda. Para adicionar um usuário utilize a busca acima.",
+    "alert": {
+      "unassignWithoutReassign": "Algo deu errado. \"{displayName}\" foi removido do projeto.",
+      "assignRole": "Sucesso! \"{displayName}\" recebeu a função de \"{roleName}\" nesse projeto.",
+      "unassignRole": "Sucesso! \"{displayName}\" foi removido deste projeto."
+    }
   }
 }
 </i18n>

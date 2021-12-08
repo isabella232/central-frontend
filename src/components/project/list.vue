@@ -635,6 +635,53 @@ export default {
     "alert": {
       "create": "新規プロジェクトは正しく作成されました。"
     }
+  },
+  "pt": {
+    "heading": [
+      "Benvindo ao Central.",
+      "Vamos fazer coisas legais."
+    ],
+    "gettingStarted": {
+      "title": "Começando",
+      "body": [
+        {
+          "full": "Se você não tem certeza de por onde começar, existe o guia de introdução e a documentação do usuário disponíveis em {docsWebsite}.",
+          "docsWebsite": "Site de documentação do ODK"
+        },
+        {
+          "full": "Além disso, você pode sempre obter ajuda de outras pessoas no {forum}, em que você pode buscar por perguntas já respondidas ou fazer a sua própria pergunta.",
+          "forum": "Fórum da comunidade ODK"
+        }
+      ]
+    },
+    "news": "Novidades",
+    "rightNow": {
+      "users": {
+        "full": [
+          "{webUsers} que pode administrar projetos nesse website.",
+          "{webUsers} que podem administrar projetos nesse website."
+        ],
+        "webUsers": "Usuário da web | Usuários da web"
+      },
+      "projects": {
+        "full": [
+          "{projects} que pode organizar formulários e usuários de aplicativo para instalação em dispositivos.",
+          "{projects} que podem organizar formulários e usuários de aplicativo para instalação em dispositivos."
+        ],
+        "projects": "Projeto | Projetos"
+      }
+    },
+    "projectsTitle": "Projetos",
+    "action": {
+      "create": "Novo"
+    },
+    "header": {
+      "forms": "Formulários"
+    },
+    "emptyTable": "Não há projetos para você visualizar.",
+    "alert": {
+      "create": "O seu novo projeto foi criado com sucesso."
+    }
   }
 }
 </i18n>

@@ -231,6 +231,20 @@ export default {
         "primaryDataTable": "繰返し質問の回答を含まないデータ（.csv形式）"
       }
     }
+  },
+  "pt": {
+    "action": {
+      "download": {
+        "unfiltered": "Baixando {count}registro | Baixando {count}registros",
+        "filtered": {
+          "withoutCount": "Baixar registros correspondentes",
+          "withCount": "Baixando {count}registro correspondente | Baixando {count}registros correspondentes"
+        },
+        "withMedia": "Todos os dados incluindo arquivos de mídia (.zip)",
+        "withoutMedia": "Todos os dados sem os arquivos de mídia (.zip)",
+        "primaryDataTable": "Dados sem grupos de repetição (.csv)"
+      }
+    }
   }
 }
 </i18n>

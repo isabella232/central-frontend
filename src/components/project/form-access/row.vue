@@ -197,6 +197,13 @@ export default {
       "state": "状態",
       "appUserAccess": "アプリユーザーのアクセス"
     }
+  },
+  "pt": {
+    "draftTitle": "Este formulário ainda não possui uma versão publicada. Ele não aparecerá nos dispositivos até que um rascunho seja publicado. Depois de publicar o formulário, as configurações exibidas aqui serão usadas.",
+    "field": {
+      "state": "Status",
+      "appUserAccess": "Acesso de usuários de aplicativo"
+    }
   }
 }
 </i18n>

@@ -206,6 +206,12 @@ export default {
     "field": {
       "notes": "メモとコメント（任意）"
     }
+  },
+  "pt": {
+    "title": "Atualizar status de revisão",
+    "field": {
+      "notes": "Observações e comentários (opcional)"
+    }
   }
 }
 </i18n>

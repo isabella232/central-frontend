@@ -174,6 +174,19 @@ export default {
         "clickHere": "こちらをクリックして選択する"
       }
     ]
+  },
+  "pt": {
+    "title": "Carregar arquivos",
+    "introduction": [
+      {
+        "full": "Para carregar arquivos, você pode {dragAndDrop}um ou mais arquivos sobre a tabela nessa página.",
+        "dragAndDrop": "arrastar e soltar"
+      },
+      {
+        "full": "Se você preferir selecionar arquivos a partir de uma janela de seleção, certifique-se que os nomes deles correspondem aos que estão na tabela e {clickHere}.",
+        "clickHere": "clique aqui para selecionar"
+      }
+    ]
   }
 }
 </i18n>

@@ -560,6 +560,52 @@ export default {
     "alert": {
       "download": "現在、バックアップが実行中です。バックアップデータは暗号化され、あなたのコンピュータにダウンロードされます。処理にしばらく時間がかかります。ダウンロードが始まると、このページを閉じても構いません。"
     }
+  },
+  "pt": {
+    "getHelp": {
+      "full": "Se você está encontrando problemas, por favor tente o {forum}.",
+      "forum": "fórum da comunidade"
+    },
+    "notConfigured": [
+      "O Backup não está configurado.",
+      "O servidor de dados não foi configurado para fazer backup automático de seus dados em lugar nenhum.",
+      {
+        "full": "A menos que você tenha configurado alguma outra forma de backup que o servidor não conheça, é {recommended}que você faça isso agora. Se você não tem certeza, é melhor fazer isso por segurança.",
+        "recommended": "recomendado fortemente"
+      },
+      "Os backups automáticos ocorrem nesse servidor uma vez ao dia. Todos os seus dados estão encriptados com a senha que você forneceu de forma que somente você pode desbloqueá-los."
+    ],
+    "neverRun": [
+      "O backup configurado não foi executado ainda.",
+      "Se você configurou o backup nos últimos dois dias, isso é normal. Caso contrário, algo deu errado.",
+      {
+        "full": "Nesse caso, a forma de corrigir mais comum é {terminate}a conexão e configurá-la novamente, ou reiniciar o serviço.",
+        "terminate": "encerrar"
+      }
+    ],
+    "somethingWentWrong": [
+      "Algo está errado!",
+      {
+        "full": "O último backup concluído com sucesso foi {moreThanThreeDaysAgo}.",
+        "moreThanThreeDaysAgo": "há mais de 3 dias"
+      },
+      {
+        "full": "A forma de corrigir mais comum é {terminate} a conexão e configurá-la novamente, ou reiniciar o serviço.",
+        "terminate": "encerrar"
+      }
+    ],
+    "success": [
+      "O Backup está em execução.",
+      "O último backup foi concluído com sucesso {dateTime}."
+    ],
+    "action": {
+      "setUp": "Configure agora",
+      "download": "Baixar o backup agora",
+      "terminate": "Encerrar"
+    },
+    "alert": {
+      "download": "O backup está sendo executado agora e será encriptado e baixado em seu computador. Isso pode levar bastante tempo. Assim que o download começar, você poderá sair dessa página."
+    }
   }
 }
 </i18n>

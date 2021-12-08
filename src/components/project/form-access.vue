@@ -332,6 +332,15 @@ export default {
     "alert": {
       "success": "変更が保存されました。"
     }
+  },
+  "pt": {
+    "heading": [
+      "Usuários de aplicativo apenas pode ver e preencher formulários a que lhes for dada autorização explicita na tabela abaixo. Gerentes de projeto e coletores de dados podem usar um navegador de internet para preencher qualquer formulário no projeto que esteja com status Aberto."
+    ],
+    "emptyTable": "Não há formulários para exibir.",
+    "alert": {
+      "success": "Suas alterações foram gravadas!"
+    }
   }
 }
 </i18n>

@@ -79,6 +79,9 @@ export default {
   },
   "ja": {
     "body": "{filename}はすぐにダウンロードされます。ダウンロードが始めると、このページから移動しても構いません。"
+  },
+  "pt": {
+    "body": "O arquivo {filename}será baixado em breve. Assim que o download começar, você poderá sair dessa página."
   }
 }
 </i18n>

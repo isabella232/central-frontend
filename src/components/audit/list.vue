@@ -128,6 +128,12 @@ export default {
       "ここでは、このサーバーで行われた重要な操作履歴を閲覧できます。ユーザーやプロジェクト、フォーム設定への変更は、ここで確認できます。"
     ],
     "emptyTable": "照合できる監査ログの記録がありません。"
+  },
+  "pt": {
+    "heading": [
+      "Aqui você encontrará um registro de auditoria de ações importantes realizadas nesse servidor. Alterações feitas a configurações de usuários, projetos ou formulários podem ser encontradas aqui."
+    ],
+    "emptyTable": "Não existem entradas correspondentes no registro de auditoria."
   }
 }
 </i18n>

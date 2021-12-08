@@ -149,6 +149,15 @@ export default {
     "alert": {
       "success": "プロジェクト設定の保存完了！"
     }
+  },
+  "pt": {
+    "title": "Detalhes básicos",
+    "field": {
+      "name": "Nome do projeto"
+    },
+    "alert": {
+      "success": "Configurações do projeto salvas!"
+    }
   }
 }
 </i18n>

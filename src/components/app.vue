@@ -171,6 +171,11 @@ body.modal-open #app-alert {
     "alert": {
       "versionChange": "サーバーがアップデートされました。予期しない動作を避けるため、ページを更新してください。"
     }
+  },
+  "pt": {
+    "alert": {
+      "versionChange": "O servidor foi atualizado. Por favor, atualize a página para evitar comportamentos imprevistos."
+    }
   }
 }
 </i18n>

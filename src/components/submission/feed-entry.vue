@@ -450,6 +450,34 @@ Comment • {name} */
       },
       "comment": "{name}によるコメント"
     }
+  },
+  "pt": {
+    "title": {
+      "create": "Enviado por {name}",
+      "updateReviewState": {
+        "null": {
+          "full": "{reviewState}por {name}",
+          "reviewState": "Recebido"
+        },
+        "hasIssues": {
+          "full": "{reviewState} por {name}",
+          "reviewState": "Contém erros"
+        },
+        "edited": {
+          "full": "{reviewState} por {name}",
+          "reviewState": "Editado"
+        },
+        "approved": {
+          "full": "{reviewState} por {name}",
+          "reviewState": "Aprovado"
+        },
+        "rejected": {
+          "full": "{reviewState} por {name}",
+          "reviewState": "Rejeitado"
+        }
+      },
+      "comment": "Comentado por {name}"
+    }
   }
 }
 </i18n>

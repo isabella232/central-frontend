@@ -339,6 +339,23 @@ export default {
       "resetPassword": "\"{displayName}\"のパスワードが無効です。{email}宛に、今後の対応についての手続き方法を記載したメールが送信されました。",
       "retire": "ユーザー\"{displayName}\"を除外しました。"
     }
+  },
+  "pt": {
+    "action": {
+      "create": "Criar usuário do site"
+    },
+    "heading": [
+      "Os usuários da web têm contas neste site para supervisionar e administrar os projetos neste servidor. Os administradores podem gerenciar qualquer coisa no site. Os usuários sem permissões de administração do site podem receber uma função em qualquer projeto, a partir das configurações desse projeto. Os administradores de todo o site e algumas funções do projeto podem usar um navegador da web para preencher os formulários. Para enviar dados por meio de um aplicativo como o {collect}, crie usuários de aplicativo para cada projeto."
+    ],
+    "header": {
+      "sitewideRole": "Função do site"
+    },
+    "alert": {
+      "create": "Um usuário foi criado com sucesso para \"{displayName}\".",
+      "assignRole": "Sucesso! \"{displayName}\" recebeu a função do site de \"{roleName}\".",
+      "resetPassword": "A senha para \"{displayName}\" foi invalidada. Um email foi enviado para {email}com as instruções de como prosseguir.",
+      "retire": "O usuário \"{displayName}\" foi desativado."
+    }
   }
 }
 </i18n>

@@ -356,6 +356,22 @@ $tab-li-margin-top: 5px;
         "create": "新規下書きの作成"
       }
     }
+  },
+  "pt": {
+    "projectNav": {
+      "action": {
+        "back": "Voltar à visão geral do projeto"
+      }
+    },
+    "formNav": {
+      "tabTitle": "Essas funções estarão disponíveis quando você publicar o seu formulário de rascunho"
+    },
+    "draftNav": {
+      "title": "Rascunho",
+      "action": {
+        "create": "Criar um novo rascunho"
+      }
+    }
   }
 }
 </i18n>

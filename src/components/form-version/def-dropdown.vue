@@ -152,6 +152,14 @@ export default {
       "downloadXForm": "XFormとしてダウンロード（.xml形式）",
       "downloadXlsForm": "XLSFormとしてダウンロード（{extension}形式）"
     }
+  },
+  "pt": {
+    "action": {
+      "def": "Definição",
+      "viewXml": "Exibir XML no browser",
+      "downloadXForm": "Baixar como XForm (.xml)",
+      "downloadXlsForm": "Baixar como XLSForm ({extension})"
+    }
   }
 }
 </i18n>

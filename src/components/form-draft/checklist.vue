@@ -558,6 +558,60 @@ export default {
         ]
       }
     ]
+  },
+  "pt": {
+    "clickForInfo": "Clique aqui para saber mais.",
+    "steps": [
+      {
+        "title": "Carregar a definição inicial do formulário",
+        "body": [
+          "Excelente trabalho!",
+          "O design de seu formulário foi carregado com sucesso."
+        ]
+      },
+      {
+        "title": "Carregar definição do formulário revisada (opcional)",
+        "body": [
+          {
+            "status": "Se você fez alterações ao próprio formulário, incluindo textos de questões ou regras de preenchimento, agora é hora de carregar o novo arquivo XML ou XLSForm através do botão à direita.",
+            "link": {
+              "full": "Se você fez alterações ao próprio formulário, incluindo textos de questões ou regras de preenchimento, agora é hora de {upload} o novo arquivo XML ou XLSForm.",
+              "upload": "carregar"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Carregar arquivos de mídia do formulário",
+        "body": [
+          {
+            "full": "A definição do seu formulário faz referência a outros arquivos necessários para apresentação do mesmo. Você pode carregar cópias novas ou atualizadas desses arquivos para distribuição através da aba {mediaFiles}.",
+            "mediaFiles": "Arquivos de mídia"
+          }
+        ]
+      },
+      {
+        "title": "Testar o formulário criando uma resposta",
+        "body": [
+          {
+            "full": "Você pode {test}o formulário para ter certeza que ele funciona da maneira que você espera. As respostas de teste não são incluídas nos seus dados finais.",
+            "test": "testar"
+          }
+        ]
+      },
+      {
+        "title": "Publicar o rascunho",
+        "body": [
+          {
+            "status": "Quando você tiver certeza que seu rascunho está pronto e desejar disponibilizá-lo a seus dispositivos em campo, você pode publicá-lo usando o botão à direita.",
+            "link": {
+              "full": "Quando você tiver certeza que seu rascunho está pronto e desejar disponibilizá-lo a seus dispositivos em campo, você pode {publish} o mesmo.",
+              "publish": "publicar"
+            }
+          }
+        ]
+      }
+    ]
   }
 }
 </i18n>

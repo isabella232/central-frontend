@@ -205,6 +205,14 @@ export default {
     "problem": {
       "401_2": "メールアドレスとパスワードの一方、または両方が違います。"
     }
+  },
+  "pt": {
+    "alert": {
+      "alreadyLoggedIn": "O usuário encontrasse logado atualmente. Por favor atualize a página para continuar."
+    },
+    "problem": {
+      "401_2": "Endereço de email e/ou senha incorretos."
+    }
   }
 }
 </i18n>

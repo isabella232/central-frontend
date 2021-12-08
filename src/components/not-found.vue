@@ -61,6 +61,9 @@ export default {
   },
   "ja": {
     "body": "リクエストされたページは見つかりません。"
+  },
+  "pt": {
+    "body": "A página que você solicitou não pode ser encontrada."
   }
 }
 </i18n>

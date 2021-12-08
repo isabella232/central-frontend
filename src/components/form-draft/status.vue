@@ -433,6 +433,33 @@ export default {
       "abandon": "このフォームの下書きは正常に削除されました。",
       "delete": "フォーム\"{name}\"は削除されました。"
     }
+  },
+  "pt": {
+    "draftChecklist": {
+      "title": "Lista de verificação do rascunho"
+    },
+    "currentDraft": {
+      "versionCaption": {
+        "full": "{draftVersion}desse formulário.",
+        "draftVersion": "Versão de rascunho"
+      },
+      "action": {
+        "upload": "Carregar nova definição"
+      }
+    },
+    "actions": {
+      "title": "Ações",
+      "action": {
+        "publish": "Publicar rascunho",
+        "abandon": "Abandonar rascunho"
+      }
+    },
+    "alert": {
+      "upload": "Sucesso! A nova definição de formulário foi armazenada como o seu rascunho.",
+      "publish": "O seu rascunho foi publicado. Quaisquer dispositivos obtendo formulários para esse projeto receberão a nova definição do formulário e os novos arquivos de mídia.",
+      "abandon": "A versão de rascunho desse formulário foi excluída com sucesso.",
+      "delete": "O formulário \"{name}\" foi excluído."
+    }
   }
 }
 </i18n>

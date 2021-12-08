@@ -151,6 +151,15 @@ export default {
     "alert": {
       "logOut": "ログアウトに成功しました。"
     }
+  },
+  "pt": {
+    "notLoggedIn": "Não está logado",
+    "action": {
+      "logOut": "Sair"
+    },
+    "alert": {
+      "logOut": "Você saiu do sistema com sucesso."
+    }
   }
 }
 </i18n>

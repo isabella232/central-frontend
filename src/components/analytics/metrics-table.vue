@@ -277,6 +277,38 @@ export default {
       "num_submissions_from_public_links": "一般公開リンクから提出されたフォーム数",
       "num_submissions_from_web_users": "Webユーザーから提出されたフォーム数"
     }
+  },
+  "pt": {
+    "recent": "nos últimos 45 dias",
+    "fields": {
+      "num_admins": "Número de administradores",
+      "num_projects_encryption": "Número de projetos com encriptação habilitada",
+      "num_questions_biggest_form": "Número de questões no maior formulário",
+      "num_audit_log_entries": "Número de entradas no registro de auditoria",
+      "backups_configured": "Backup configurado",
+      "database_size": "Tamanho do banco de dados do sistema",
+      "num_managers": "Número de gerentes de projeto",
+      "num_viewers": "Número de observadores de projeto",
+      "num_data_collectors": "Número de coletores de dados",
+      "num_app_users": "Número de usuários de aplicativo",
+      "num_device_ids": "Número de identificadores de dispositivos",
+      "num_public_access_links": "Número de links de acesso público",
+      "num_forms": "Número de formulários",
+      "num_forms_with_repeats": "Número de formulários com estruturas de repetição",
+      "num_forms_with_geospatial": "Número de formulários com dados de georreferenciamento",
+      "num_forms_with_encryption": "Número de formulários com encriptação",
+      "num_forms_with_audits": "Número de formulários com auditoria",
+      "num_submissions_received": "Número de respostas - Recebido",
+      "num_submissions_approved": "Número de respostas - Aprovado",
+      "num_submissions_has_issues": "Número de respostas - Contém erros",
+      "num_submissions_rejected": "Número de respostas - Rejeitado",
+      "num_submissions_edited": "Número de respostas - Editado",
+      "num_submissions_with_edits": "Número de respostas com edição",
+      "num_submissions_with_comments": "Número de respostas com comentários",
+      "num_submissions_from_app_users": "Número de respostas de usuários de aplicativo",
+      "num_submissions_from_public_links": "Número de respostas de links públicos",
+      "num_submissions_from_web_users": "Número de respostas de usuários do site"
+    }
   }
 }
 </i18n>

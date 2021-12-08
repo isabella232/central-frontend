@@ -1,0 +1,294 @@
+{
+  "title": {
+    "resetPassword": "Redefinir senha",
+    "setPassword": "Definir senha",
+    "editProfile": "Editar Perfil",
+    "download": "Baixar",
+    "pageNotFound": "Página não encontrada",
+    "details": "Detalhes"
+  },
+  "projectShow": {
+    "tab": {
+      "formAccess": "Acesso ao Formulário"
+    }
+  },
+  "formHead": {
+    "tab": {
+      "versions": "Versões",
+      "publicAccess": "Acesso Público"
+    },
+    "draftNav": {
+      "tab": {
+        "status": "Situação",
+        "attachments": "Arquivos de mídia",
+        "testing": "Em teste"
+      }
+    }
+  },
+  "systemHome": {
+    "title": "Gerenciamento do sistema",
+    "tab": {
+      "backups": "Backups",
+      "audits": "Registros de auditoria do servidor",
+      "analytics": "Relatório de uso"
+    }
+  },
+  "role": {
+    "none": "Nenhum",
+    "admin": "Administrador",
+    "manager": "Gerente de projeto",
+    "viewer": "Observador de projeto",
+    "formfill": "Coletor de dados"
+  },
+  "formState": {
+    "open": "Aberto",
+    "closing": "Em fechamento",
+    "closed": "Fechado"
+  },
+  "reviewState": {
+    "received": "Recebido",
+    "hasIssues": "Contém erros",
+    "edited": "Alterado",
+    "approved": "Aprovado",
+    "rejected": "Rejeitado",
+    "null": "@:reviewState.received"
+  },
+  "audit": {
+    "category": {
+      "nonverbose": "(Todas as ações)",
+      "user": "Ações de usuários do site",
+      "project": "Ações do projeto",
+      "form": "Ações de formulário",
+      "field_key": "Ações de usuário de aplicativo",
+      "public_link": "Ações de link público de acesso",
+      "config": "Ações de configuração de servidor",
+      "upgrade": "Atualização do servidor"
+    },
+    "action": {
+      "default": {
+        "create": "Criar",
+        "update": "Atualizar detalhes",
+        "session_end": "Revogar",
+        "delete": "Excluir"
+      },
+      "analytics": "Histórico de uso",
+      "backup": "Cópia de segurança",
+      "config": {
+        "set": "Atribuir"
+      },
+      "field_key": {
+        "assignment_create": "Conceder acesso",
+        "assignment_delete": "Remover acesso",
+        "create": "@:audit.action.default.create",
+        "session_end": "@:audit.action.default.session_end",
+        "delete": "@:audit.action.default.delete"
+      },
+      "form": {
+        "update_draft_set": "Criar ou atualizar formulário de teste",
+        "update_publish": "Publicar rascunho",
+        "update_draft_delete": "Abandonar rascunho",
+        "attachment_update": "Atualizar anexos",
+        "submission_export": "Baixar respostas",
+        "create": "@:audit.action.default.create",
+        "update": "@:audit.action.default.update",
+        "delete": "@:audit.action.default.delete"
+      },
+      "public_link": {
+        "assignment_create": "Conceder acesso",
+        "assignment_delete": "Remover acesso",
+        "create": "@:audit.action.default.create",
+        "session_end": "@:audit.action.default.session_end",
+        "delete": "@:audit.action.default.delete"
+      },
+      "upgrade": {
+        "process_form": "Processar formulário",
+        "process_form_draft": "Processar formulário de teste"
+      },
+      "user": {
+        "assignment_create": "Atribuir função",
+        "assignment_delete": "Remover função",
+        "delete": "Desativar",
+        "create": "@:audit.action.default.create",
+        "update": "@:audit.action.default.update",
+        "session_create": "@:action.logIn"
+      },
+      "project": {
+        "create": "@:audit.action.default.create",
+        "update": "@:audit.action.default.update",
+        "delete": "@:audit.action.default.delete"
+      }
+    }
+  },
+  "action": {
+    "cancel": "Cancelar",
+    "clear": "Limpar",
+    "close": "Fechar",
+    "comment": "Comentário",
+    "create": "Criar",
+    "createSubmission": "Novo",
+    "done": "Concluído",
+    "download": "Baixar",
+    "edit": "Editar",
+    "editProfile": "Editar perfil",
+    "logIn": "Entrar",
+    "looksGood": "Parece bom, prosseguir",
+    "more": "Mais informações",
+    "neverMind": "Esqueça, cancelar",
+    "next": "Próximo",
+    "noCancel": "Não, cancelar",
+    "ok": "Tudo certo",
+    "proceed": "Prosseguir",
+    "refresh": "Atualizar",
+    "resetPassword": "Redefinir senha",
+    "review": "Revisar",
+    "save": "Salvar",
+    "saveSettings": "Salvar configuração",
+    "update": "Atualizar",
+    "yesProceed": "Sim, prossiga",
+    "showPreview": "Visualizar",
+    "hidePreview": "Ocultar visualização"
+  },
+  "field": {
+    "comment": "Deixe um comentário",
+    "dateRange": "Intervalo de datas",
+    "displayName": "Nome para exibição",
+    "email": "Endereço de email",
+    "name": "Nome",
+    "newPassword": "Nova senha",
+    "oldPassword": "Senha antiga",
+    "passphrase": "Dica de senha",
+    "password": "Senha",
+    "passwordConfirm": "Nova senha (confirmar)",
+    "reviewState": "Status da revisão",
+    "type": "Tipo"
+  },
+  "header": {
+    "actions": "Ações",
+    "created": "Criado",
+    "createdBy": "Criado por",
+    "displayName": "Nome para exibição",
+    "email": "Endereço de email",
+    "instanceId": "Identificador do registro",
+    "lastSubmission": "Última resposta",
+    "name": "Nome",
+    "submitterName": "Enviado por",
+    "submissionDate": "Enviado em",
+    "time": "Hora",
+    "type": "Tipo"
+  },
+  "plural": {
+    "appUser": "Usuário de aplicativo | Usuários de aplicativo",
+    "form": "Formulário | Formulários",
+    "project": "Projeto | Projetos",
+    "submission": "Resposta | Respostas",
+    "webUser": "Usuário da web | Usuários da web"
+  },
+  "count": {
+    "appUser": "{count} usuário de aplicativo | {count} usuários de aplicativo",
+    "form": "{count}formulário | {count} formulários",
+    "submission": "{count}resposta | {count} respostas"
+  },
+  "resource": {
+    "appUser": "Usuário de aplicativo",
+    "appUsers": "Usuários de aplicativo",
+    "config": "Configuração do servidor",
+    "form": "Formulário",
+    "forms": "Formulários",
+    "project": "Projeto",
+    "projects": "Projetos",
+    "publicLink": "Link de acesso público",
+    "user": "Usuário",
+    "users": "Usuários",
+    "webUser": "Usuário do site",
+    "webUsers": "Usuários do site",
+    "session": "Sessão",
+    "submissions": "Respostas",
+    "projectRoles": "Funções de projeto"
+  },
+  "alert": {
+    "updateReviewState": "Status de revisão salvo!"
+  },
+  "moreInfo": {
+    "clickHere": {
+      "full": "Para mais informações, {clickHere}.",
+      "clickHere": "clique aqui"
+    },
+    "helpArticle": {
+      "full": "Para mais informações, por favor acesse {helpArticle}",
+      "helpArticle": "este artigo da ajuda"
+    },
+    "learnMore": "Saiba mais."
+  },
+  "analytics": {
+    "alwaysImprove": "Nós estamos sempre tentando melhorar o ODK Central.",
+    "needFeedback": {
+      "full": "Para fazer isso nós precisamos do {your} comentário, assim poderemos entender o uso do Central e como torná-lo melhor para você.",
+      "your": "seu"
+    }
+  },
+  "submission": {
+    "missingMedia": "Arquivo de mídia faltando",
+    "action": {
+      "edit": "Editar ({count})"
+    },
+    "editDisabled": "Você não pode editar respostas encriptadas.",
+    "binaryLinkTitle": "O arquivo foi enviado. Clique para baixar.",
+    "encryptionMessage": "A visualização dos dados não está disponível devido à encriptação."
+  },
+  "common": {
+    "activity": "Atividade",
+    "anybody": "(Qualquer pessoa)",
+    "areYouSure": "Tem certeza que deseja continuar?",
+    "basicInfo": "Informações básicas",
+    "currentDraft": "Sua versão de rascunho atual",
+    "dangerZone": "Zona de perigo",
+    "filter": "Filtrar",
+    "no": "Não",
+    "noResults": "Não há resultados",
+    "rightNow": "Agora",
+    "success": "Sucesso!",
+    "system": "Sistema",
+    "yes": "Sim",
+    "tab": {
+      "settings": "Configurações",
+      "overview": "Visão geral"
+    },
+    "total": "Total"
+  },
+  "mixin": {
+    "request": {
+      "alert": {
+        "fileSize": "O arquivo \"{name}\" que você está tentando enviar é maior do que o limite de 100 MB."
+      }
+    }
+  },
+  "presenter": {
+    "Form": {
+      "blankVersion": "(em branco)"
+    },
+    "Project": {
+      "nameWithArchived": "{name} (arquivado)"
+    }
+  },
+  "util": {
+    "dateTime": {
+      "today": "Hoje",
+      "yesterday": "Ontem"
+    },
+    "request": {
+      "noRequest": "Algo deu errado: não houve requisição.",
+      "noResponse": "Algo deu errado: não houve resposta à sua requisição.",
+      "errorNotProblem": "Algo deu errado: código de erro {status}."
+    },
+    "session": {
+      "alert": {
+        "expiresSoon": "Sua sessão irá expirar em 2 minutos e será encerrada automaticamente.",
+        "expired": "Sua sessão expirou. Para continuar trabalhando efetue login novamente.",
+        "logoutError": "Houve um problema e sua última sessão não foi encerrada corretamente. Por favor, atualize a página ou tente efetuar login novamente. {message}"
+      }
+    }
+  },
+  "router": {
+    "unsavedChanges": "Você tem certeza que deseja sair da dessa página? Suas alterações podem não ter sido salvas."
+  }
+}

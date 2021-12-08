@@ -187,6 +187,14 @@ export default {
     "present": "{count}件の提出済メディアファイル",
     "expected": "{count}件の期待されるメディアファイル数",
     "attachmentSummary": "{present} / {expected}"
+  },
+  "pt": {
+    "reviewState": "Status da revisão",
+    "deviceId": "ID do dispositivo",
+    "attachments": "Arquivos de mídia",
+    "present": "{count}arquivo | {count}arquivos",
+    "expected": "{count}esperado | {count} esperados",
+    "attachmentSummary": "{present} / {expected}"
   }
 }
 </i18n>

@@ -134,6 +134,11 @@ export default {
     "help": "プロジェクトとは？",
     "noSubmission": "（なし）",
     "encryptionTip": "このプロジェクトは管理された暗号化を使用しています。"
+  },
+  "pt": {
+    "help": "O que são projetos?",
+    "noSubmission": "(nenhuma)",
+    "encryptionTip": "Esse projeto utiliza encriptação gerenciada."
   }
 }
 </i18n>

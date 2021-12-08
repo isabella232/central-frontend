@@ -131,6 +131,14 @@ export default {
       "roles": "役割設定"
     },
     "comingSoon": "（近日公開）"
+  },
+  "pt": {
+    "title": "Configurações de usuário",
+    "tab": {
+      "users": "Usuários da web",
+      "roles": "Configurações de função"
+    },
+    "comingSoon": "(em breve)"
   }
 }
 </i18n>

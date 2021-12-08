@@ -172,6 +172,22 @@ export default {
       ],
       "forms": "フォーム"
     }
+  },
+  "pt": {
+    "appUsers": {
+      "full": [
+        "{appUsers} que pode utilizar um cliente de coleta de dados para baixar formulários e enviar respostas nesse projeto.",
+        "{appUsers} que podem utilizar um cliente de coleta de dados para baixar formulários e enviar respostas nesse projeto."
+      ],
+      "appUsers": "Usuário de aplicativo | Usuários de aplicativo"
+    },
+    "forms": {
+      "full": [
+        "{forms} que pode ser baixado e distribuído como questionário de pesquisa.",
+        "{forms} que podem ser baixados e distribuídos como questionários de pesquisa."
+      ],
+      "forms": "Formulário | Formulários"
+    }
   }
 }
 </i18n>

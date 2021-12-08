@@ -87,6 +87,9 @@ export default {
   },
   "ja": {
     "text": "{displayName}が{dateTime}の時点で実施"
+  },
+  "pt": {
+    "text": "{dateTime} feito por {displayName}"
   }
 }
 </i18n>

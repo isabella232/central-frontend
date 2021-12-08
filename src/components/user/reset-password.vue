@@ -136,6 +136,13 @@ export default {
       "full": "次の{resetPassword}クリックすると、ユーザー\"{displayName}\"\u003c{email}>のパスワードが今すぐ無効化されます。その際、{email}に今後の手順を記載したメールが送信されます。",
       "resetPassword": "パスワードのリセット"
     }
+  },
+  "pt": {
+    "title": "Redefinir senha",
+    "introduction": {
+      "full": "Assim que você clicar em {resetPassword}abaixo, a senha para o usuário \"{displayName}\" \u003c{email}> será imediatamente invalidada. Um email será enviado para {email} com instruções de como prosseguir.",
+      "resetPassword": "Redefinir senha"
+    }
   }
 }
 </i18n>

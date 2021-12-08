@@ -311,6 +311,26 @@ export default {
       "create": "成功です！一般公開リンクが作成され、利用可能です。 以下をコピーして配布できます。",
       "revoke": "一般公開リンク\"{displayName}\"の無効化に成功しました。以後、このリンクでのサフォームの提出は受付られません。"
     }
+  },
+  "pt": {
+    "action": {
+      "create": "Criar link de acesso público"
+    },
+    "heading": [
+      {
+        "full": "Qualquer pessoa com um link de acesso público pode preencher este formulário em um navegador de internet. Você pode criar vários links para rastrear distribuições diferentes do formulário, para limitar por quanto tempo um grupo específico de pessoas tem acesso ao formulário e muito mais. Esses links só funcionarão se o formulário estiver com {state}Aberto.",
+        "state": "status"
+      },
+      {
+        "full": "Links públicos destinam-se a preenchimento autônomo. Se você está trabalhando com coletores de dados que precisam responder o mesmo formulário várias vezes, {clickHere}para outras opções.",
+        "clickHere": "clique aqui"
+      }
+    ],
+    "emptyTable": "Não existem links de acesso público para esse formulário.",
+    "alert": {
+      "create": "Sucesso! Seu link de acesso público foi criado e está ativo agora. Copie o link abaixo para distribuí-lo.",
+      "revoke": "O link de acesso público \"{displayName}\" foi revogado com sucesso. Nenhuma resposta usando esse link será aceita de agora em diante."
+    }
   }
 }
 </i18n>
