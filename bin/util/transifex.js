@@ -18,6 +18,7 @@ const locales = {
   fr: { pluralCategories: ['one', 'other'] },
   id: {},
   it: {},
+  pt: {},
   ja: { warnVariableSeparator: false }
 };
 

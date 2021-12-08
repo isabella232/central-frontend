@@ -23,6 +23,7 @@ export const locales = new Map()
   .set('fr', 'Français')
   .set('id', 'Bahasa Indonesia')
   .set('it', 'Italiano')
+  .set('pt', 'Português')
   .set('ja', '日本語');
 
 const fallbackLocale = 'en';
@@ -65,6 +66,9 @@ const pluralizationRules = {
     return 2;
   },
   id: noPlural,
+  // pt-br and pt-pt seem to have different rules for zero. Here we use the rule
+  // for pt-br. (That is also the rule that Intl.PluralRules uses for pt.)
+  pt: (count) => (count <= 1 ? 0 : 1),
   ja: noPlural
 };
 
